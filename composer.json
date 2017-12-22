@@ -2,7 +2,7 @@
     "name": "RoLink",
     "description": "A Discord bot",
     "require": {
-        "slim/slim": "^0.0"
+        
     },
     "license": "MIT",
     "authors": [
